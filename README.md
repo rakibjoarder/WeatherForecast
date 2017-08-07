@@ -1,5 +1,5 @@
 # WeatherForecast
-WeatherForecast is a weather forecasting app developed using openweathermap api which forecast .
+WeatherForecast is a weather forecasting app developed using openweathermap api.
 
 
 Apk File : [WeatherForecast](https://drive.google.com/drive/folders/0B4mIRRA_2Dbeal9CUFFGVE1EV0E)
