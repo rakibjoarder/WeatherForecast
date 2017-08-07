@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_weather_report"
+            android:title="Weather Report"
+            android:icon="@mipmap/ic_launcher"
+            />
+        <item
+            android:id="@+id/nav_location"
+            android:title="Location"
+            android:icon="@drawable/ic_location"
+            />
+        <item
+            android:id="@+id/nav_setting"
+            android:title="Setting"
+            android:icon="@drawable/ic_menu_manage"
+        />
+        <item
+            android:id="@+id/nav_about_us"
+            android:title="About Us"
+            android:icon="@drawable/ic_about_us"
+            />
+    </group>
+
+   <!-- <item android:title="Communicate">-->
+
+
+
+</menu>
